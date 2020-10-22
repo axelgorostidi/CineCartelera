@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">CineCartelera</string>
+    <string name="cerrarSesion">Cerrar Sesión</string>
+    <string name="masInfo">Más Información</string>
+    <string name="atencion">Atención</string>
+    <string name="eliminarPelicula">¿Está seguro que desea eliminar la película?</string>
+    <string name="confirmar">Confirmar</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="infoTV1">Aplicación creada para trabajo práctico de la materia "Dispositivos Móviles".</string>
+    <string name="infoTV2">Ésta aplicación no contiene datos reales.</string>
+    <string name="infoTV3">Funcionalidades operativas:</string>
+    <string name="infoTV4">Ver detalle de cada película presionando en alguna.</string>
+    <string name="infoTV5">Eliminar películas del listado manteniendo presionado en una.</string>
+    <string name="infoTV6">Funcionalidades por incluir:</string>
+    <string name="infoTV7">Agregar nuevas películas.</string>
+    <string name="infoTV8">Conocer la distancia del usuario al cine.</string>
+    <string name="infoTV9">Autor: Axel Gorostidi</string>
+    <string name="volver">Volver</string>
+    <string name="ingresar">Ingresar</string>
+    <string name="bienvenido">Bienvenido!</string>
+    <string name="ingreseNombre">Por favor ingrese su nombre.</string>
+    <string name="fechaEstreno">Fecha de Estreno</string>
+    <string name="precio">Precio del ticket</string>
+    <string name="duracion">Duración</string>
+    <string name="categoria">Categoría</string>
+
+</resources>
