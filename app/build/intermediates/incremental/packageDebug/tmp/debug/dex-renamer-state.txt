@@ -1,4 +1,4 @@
-#Thu Oct 22 17:48:36 ART 2020
-base.0=G\:\\GITHUB REPOSITORIOS\\CineCartelera\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+#Thu Oct 22 18:06:50 ART 2020
+base.0=G\:\\GITHUB REPOSITORIOS\\CineCartelera\\CineCartelera\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
 path.0=classes.dex
 renamed.0=classes.dex
